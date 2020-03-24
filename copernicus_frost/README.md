@@ -1,12 +1,12 @@
 # Risk of late frost in a warmer climate
 
-Study conducted at the Copernicus C3S User Learning Workshop
+Study conducted at the Copernicus C3S User Learning Workshop  
 March 2020, Zurich, Switzerland  
 
 Daniel Steinfeld, Tobias Steber and Joël Durand  
 
 ## Motivation:
-April 2017 in Europe: after an extremely warm March and April, temperatures in the lowlands dropped well below zero degrees Celsius for several days – with damage to vegetation, fruit and vines. resulting in losses of aprox. €3.3bn.
+April 2017 in Europe: after an extremely warm March and April, temperatures in the lowlands dropped well below zero degrees Celsius for several days – with damage to vegetation, fruit and vines, resulting in losses of aprox. €3.3bn.
 
 ## Risk
 Frost occurence (FD) after warm period exceeding a certain amount of Growing Degree Days (GDD).
